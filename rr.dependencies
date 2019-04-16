@@ -3,12 +3,12 @@
     "remote": "github",
     "repository": "followmsi/android_kernel_google_msm",
     "target_path": "kernel/google/msm",
-    "branch": "pie"
+    "branch": "followmsi-pie"
   },
   {
     "remote": "github",
     "repository": "followmsi/android_vendor",
     "target_path": "vendor/asus",
-    "branch": "pie"
+    "branch": "flo-deb-lineage-16.0"
   }  
 ]
