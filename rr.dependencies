@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "followmsi/android_kernel_google_msm",
+    "target_path": "kernel/google/msm",
+    "branch": "pie"
+  },
+  {
+    "remote": "github",
+    "repository": "followmsi/android_vendor",
+    "target_path": "vendor/asus",
+    "branch": "pie"
+  }  
+]
